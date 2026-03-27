@@ -1,0 +1,17 @@
+{
+  "name": "maya-toolkit",
+  "version": "1.0.0",
+  "description": "Comprehensive toolkit for Maya AI development including task planning, PR review, documentation, and session management",
+  "author": {
+    "name": "Tomer Hamam",
+    "email": "tomerhamam@gmail.com"
+  },
+  "keywords": [
+    "maya",
+    "task-planning",
+    "documentation",
+    "pr-review",
+    "linear",
+    "session-management"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "claude-memory": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "${CLAUDE_PLUGIN_ROOT}/mcp-server",
+      "env": {
+        "MEMORY_DIR": "~/.claude-memory",
+        "EMBEDDING_MODEL": "minilm-l6",
+        "MAX_MEMORY_SIZE_MB": "1000",
+        "AUTO_ARCHIVE_DAYS": "90",
+        "ENABLE_AUTO_INDEXING": "true"
+      }
+    }
+  }
+}
