@@ -5,26 +5,36 @@
     "email": "tomerhamam@gmail.com"
   },
   "metadata": {
-    "description": "Experimental — WIP plugins and skills under active development",
-    "version": "1.1.0",
+    "description": "Experimental \u2014 WIP plugins and skills under active development",
+    "version": "1.2.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
     {
       "name": "maya-toolkit",
       "source": "./plugins/maya-toolkit",
-      "version": "1.0.0",
-      "description": "Maya AI development toolkit — task planning, PR review, documentation, and session management",
+      "version": "1.0.1",
+      "description": "Maya AI development toolkit \u2014 task planning, PR review, documentation, and session management",
       "category": "development",
-      "keywords": ["maya", "task-planning", "pr-review", "documentation"]
+      "keywords": [
+        "maya",
+        "task-planning",
+        "pr-review",
+        "documentation"
+      ]
     },
     {
       "name": "claude-memory",
       "source": "./plugins/claude-memory",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Persistent memory management with conversation history, knowledge base, and semantic search",
       "category": "knowledge-management",
-      "keywords": ["memory", "knowledge-base", "semantic-search", "conversations"]
+      "keywords": [
+        "memory",
+        "knowledge-base",
+        "semantic-search",
+        "conversations"
+      ]
     }
   ]
 }

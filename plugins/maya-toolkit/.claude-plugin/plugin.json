@@ -1,6 +1,6 @@
 {
   "name": "maya-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comprehensive toolkit for Maya AI development including task planning, PR review, documentation, and session management",
   "author": {
     "name": "Tomer Hamam",
