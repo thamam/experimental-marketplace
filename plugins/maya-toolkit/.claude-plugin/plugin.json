@@ -13,5 +13,10 @@
     "pr-review",
     "linear",
     "session-management"
-  ]
+  ],
+  "autoDiscover": {
+    "skills": "skills/*",
+    "commands": "commands/*",
+    "agents": "agents/*"
+  }
 }
